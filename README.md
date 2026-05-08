@@ -24,3 +24,5 @@ precision-medicine-portfolio/
 Status:
 
 rnaseq-pipeline
+
+Note: This is a self-taught series so feel free to send me any advice or recommendation :)
