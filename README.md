@@ -3,7 +3,8 @@ Different precision medicine (PM) methods for RNAseq data and their incorporatio
 
 
 I'll be exploring new methods for PM and creating reproducible workflows along the way.
-plan:
+
+Plan:
 
 precision-medicine-portfolio/
 
@@ -21,4 +22,5 @@ precision-medicine-portfolio/
 |-- reproducible-environments/
 
 Status:
+
 rnaseq-pipeline
