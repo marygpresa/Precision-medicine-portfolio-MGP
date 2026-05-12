@@ -1,10 +1,10 @@
 # Precision-medicine-portfolio-MGP
-Different precision medicine (PM) methods for RNAseq data and their incorporation for longitudinal mechanistic patient monitoring.
+Different precision medicine (PM) methods for different type of data and their incorporation for longitudinal mechanistic patient monitoring.
 
 
-I'll be exploring new methods for PM and creating reproducible workflows along the way.
+I'll be exploring new methods for PM and creating reproducible workflows along the way based on papers and other research.
 
-Plan:
+Plan/idea:
 
 precision-medicine-portfolio/
 
@@ -21,8 +21,11 @@ precision-medicine-portfolio/
 
 |-- reproducible-environments/
 
-Status:
+epigenetics?
+exome?
+GWAS
 
-rnaseq-pipeline
+Status:
+variant-calling
 
 Note: This is a self-taught series so feel free to send me any advice or recommendation :)
